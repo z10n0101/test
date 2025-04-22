@@ -1,0 +1,1808 @@
+{
+  "version": "2.1.0",
+  "$schema":"https://raw.githubusercontent.com/oasis-tcs/sarif-spec/master/Schemata/sarif-schema-2.1.0.json",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "SARIF",
+          "organization": "SARIF",
+          "fullName": "SARIF",
+          "version": "1.0.0",
+          "semanticVersion": "1.0.0",
+          "informationUri": "https://google.com",
+          "rules": [
+          {
+                      "id": "CVE-2015-9251/pkg:npm/jquery@1.10.2",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.12.2 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2015-9251"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2016-7103/pkg:npm/jquery-ui@1.10.4",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.12.0 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2016-7103"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-41183/pkg:npm/jquery-ui@1.10.4",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.13.0 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-41183"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-41182/pkg:npm/jquery-ui@1.10.4",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.13.0 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-41182"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-41184/pkg:npm/jquery-ui@1.10.4",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.13.0 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-41184"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2022-31160/pkg:npm/jquery-ui@1.10.4",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.13.2 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2022-31160"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2019-11358/pkg:npm/jquery@1.10.2",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 3.4.0 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2019-11358"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2020-11023/pkg:npm/jquery@1.10.2",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 3.5.0 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2020-11023"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2020-11022/pkg:npm/jquery@1.10.2",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 3.5.0 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2020-11022"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-12798/pkg:maven/ch.qos.logback/logback-core@1.4.14?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.5.13 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-12798"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-8184/pkg:maven/org.eclipse.jetty/jetty-server@11.0.18?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 11.0.24 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-8184"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2019-14900/pkg:maven/org.hibernate.orm/hibernate-core@6.4.8.Final?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": ""
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2019-14900"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2016-3674/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2016-3674"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-39141/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-39141"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2023-5685/pkg:maven/org.jboss.xnio/xnio-api@3.8.8.Final?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 3.8.14.Final or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2023-5685"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-38819/pkg:maven/org.springframework/spring-webmvc@6.1.8?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 6.1.14 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-38819"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-39147/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-39147"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-6763/pkg:maven/org.eclipse.jetty/jetty-http@11.0.18?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 12.0.12 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-6763"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-39150/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-39150"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-39148/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-39148"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-6763/pkg:maven/org.eclipse.jetty/jetty-server@11.0.18?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 12.0.12 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-6763"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-22201/pkg:maven/org.eclipse.jetty.http2/http2-common@11.0.18?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 11.0.20 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-22201"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2020-26259/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2020-26259"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-21348/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-21348"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-21349/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-21349"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-39149/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-39149"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-22201/pkg:maven/org.eclipse.jetty/jetty-server@11.0.18?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 11.0.20 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-22201"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-7885/pkg:maven/io.undertow/undertow-core@2.3.13.Final?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 2.3.17.Final or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-7885"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2023-52428/pkg:maven/com.nimbusds/nimbus-jose-jwt@9.24.4?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 9.37.2 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2023-52428"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-29505/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-29505"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-21351/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-21351"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2017-7957/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2017-7957"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-39151/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-39151"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-38820/pkg:maven/org.springframework/spring-context@6.1.8?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 6.1.14 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-38820"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-21345/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-21345"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-39152/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-39152"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2023-51775/pkg:maven/org.bitbucket.b_c/jose4j@0.9.3?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 0.9.4 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2023-51775"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-21341/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-21341"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-31573/pkg:maven/org.xmlunit/xmlunit-core@2.9.1?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 2.10.0 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-31573"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-39154/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-39154"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-39140/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-39140"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-12801/pkg:maven/ch.qos.logback/logback-core@1.4.14?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.5.13 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-12801"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2020-25638/pkg:maven/org.hibernate.orm/hibernate-core@6.4.8.Final?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": ""
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2020-25638"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-39145/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-39145"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-21347/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-21347"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-38821/pkg:maven/org.springframework.security/spring-security-web@6.2.4?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 6.2.7 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-38821"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-38827/pkg:maven/org.springframework.security/spring-security-core@6.2.4?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 6.2.8 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-38827"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2020-26258/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2020-26258"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-21344/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-21344"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-47072/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-47072"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-39139/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-39139"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2013-7285/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2013-7285"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-38809/pkg:maven/org.springframework/spring-webmvc@6.1.8?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 6.1.14 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-38809"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2019-10173/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2019-10173"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-39144/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-39144"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-21342/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-21342"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-57699/pkg:maven/net.minidev/json-smart@2.5.1?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 2.5.2 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-57699"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-39153/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-39153"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-21343/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-21343"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-21346/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-21346"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-3653/pkg:maven/io.undertow/undertow-core@2.3.13.Final?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 2.3.17.Final or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-3653"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-6162/pkg:maven/io.undertow/undertow-core@2.3.13.Final?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 2.3.17.Final or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-6162"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2020-26217/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2020-26217"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-43859/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-43859"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2022-40151/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2022-40151"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-21350/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-21350"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2024-38816/pkg:maven/org.springframework/spring-webmvc@6.1.8?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 6.1.14 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2024-38816"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2022-41966/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2022-41966"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2020-8908/pkg:maven/com.google.guava/guava@33.2.1-jre?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 32.0.0-android or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2020-8908"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2025-22228/pkg:maven/org.springframework.security/spring-security-crypto@6.2.4?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 6.2.10 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2025-22228"
+                        ]
+                      }
+                    },
+              {
+                      "id": "CVE-2021-39146/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                      "help": {
+                        "text": "",
+                        "markdown": "Update to 1.4.21 or later"
+                      },
+                      "properties": {
+                        "tags": [
+                          "CVE-2021-39146"
+                        ]
+                      }
+                    },
+              ],
+          "language": "en-US",
+          "contents": [
+            "localizedData",
+            "nonLocalizedData"
+          ],
+          "isComprehensive": false
+        }
+      },
+      "language": "en-US",
+      "results": [
+      {
+                  "ruleId": "CVE-2015-9251/pkg:npm/jquery@1.10.2",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2015-9251"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2016-7103/pkg:npm/jquery-ui@1.10.4",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2016-7103"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-41183/pkg:npm/jquery-ui@1.10.4",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-41183"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-41182/pkg:npm/jquery-ui@1.10.4",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-41182"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-41184/pkg:npm/jquery-ui@1.10.4",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-41184"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2022-31160/pkg:npm/jquery-ui@1.10.4",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2022-31160"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2019-11358/pkg:npm/jquery@1.10.2",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2019-11358"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2020-11023/pkg:npm/jquery@1.10.2",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2020-11023"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2020-11022/pkg:npm/jquery@1.10.2",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2020-11022"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-12798/pkg:maven/ch.qos.logback/logback-core@1.4.14?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-12798"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-8184/pkg:maven/org.eclipse.jetty/jetty-server@11.0.18?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-8184"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2019-14900/pkg:maven/org.hibernate.orm/hibernate-core@6.4.8.Final?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2019-14900"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2016-3674/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2016-3674"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-39141/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-39141"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2023-5685/pkg:maven/org.jboss.xnio/xnio-api@3.8.8.Final?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2023-5685"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-38819/pkg:maven/org.springframework/spring-webmvc@6.1.8?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-38819"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-39147/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-39147"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-6763/pkg:maven/org.eclipse.jetty/jetty-http@11.0.18?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-6763"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-39150/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-39150"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-39148/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-39148"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-6763/pkg:maven/org.eclipse.jetty/jetty-server@11.0.18?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-6763"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-22201/pkg:maven/org.eclipse.jetty.http2/http2-common@11.0.18?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-22201"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2020-26259/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2020-26259"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-21348/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-21348"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-21349/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-21349"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-39149/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-39149"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-22201/pkg:maven/org.eclipse.jetty/jetty-server@11.0.18?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-22201"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-7885/pkg:maven/io.undertow/undertow-core@2.3.13.Final?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-7885"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2023-52428/pkg:maven/com.nimbusds/nimbus-jose-jwt@9.24.4?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2023-52428"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-29505/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-29505"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-21351/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-21351"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2017-7957/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2017-7957"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-39151/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-39151"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-38820/pkg:maven/org.springframework/spring-context@6.1.8?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-38820"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-21345/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-21345"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-39152/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-39152"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2023-51775/pkg:maven/org.bitbucket.b_c/jose4j@0.9.3?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2023-51775"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-21341/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-21341"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-31573/pkg:maven/org.xmlunit/xmlunit-core@2.9.1?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-31573"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-39154/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-39154"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-39140/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-39140"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-12801/pkg:maven/ch.qos.logback/logback-core@1.4.14?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-12801"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2020-25638/pkg:maven/org.hibernate.orm/hibernate-core@6.4.8.Final?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2020-25638"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-39145/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-39145"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-21347/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-21347"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-38821/pkg:maven/org.springframework.security/spring-security-web@6.2.4?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-38821"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-38827/pkg:maven/org.springframework.security/spring-security-core@6.2.4?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-38827"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2020-26258/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2020-26258"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-21344/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-21344"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-47072/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-47072"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-39139/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-39139"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2013-7285/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2013-7285"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-38809/pkg:maven/org.springframework/spring-webmvc@6.1.8?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-38809"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2019-10173/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2019-10173"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-39144/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-39144"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-21342/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-21342"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-57699/pkg:maven/net.minidev/json-smart@2.5.1?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-57699"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-39153/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-39153"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-21343/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-21343"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-21346/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-21346"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-3653/pkg:maven/io.undertow/undertow-core@2.3.13.Final?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-3653"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-6162/pkg:maven/io.undertow/undertow-core@2.3.13.Final?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-6162"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2020-26217/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2020-26217"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-43859/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-43859"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2022-40151/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2022-40151"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-21350/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-21350"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2024-38816/pkg:maven/org.springframework/spring-webmvc@6.1.8?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2024-38816"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2022-41966/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2022-41966"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2020-8908/pkg:maven/com.google.guava/guava@33.2.1-jre?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2020-8908"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2025-22228/pkg:maven/org.springframework.security/spring-security-crypto@6.2.4?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2025-22228"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         {
+                  "ruleId": "CVE-2021-39146/pkg:maven/com.thoughtworks.xstream/xstream@1.4.5?type=jar",
+                  "kind": "fail",
+                  "level": "warning",
+                  "message": {
+                    "text": "CVE-2021-39146"
+                  },
+
+                  "properties": {
+                    "issue_severity": "MEDIUM",
+                    "issue_confidence": "MEDIUM"
+                  }
+                },
+         ],
+      "newlineSequences": [
+        "\r\n",
+        "\n"
+      ]
+    }
+  ]
+}
