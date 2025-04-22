@@ -863,7 +863,7 @@
                           "CVE-2021-39146"
                         ]
                       }
-                    },
+                    }
               ],
           "language": "en-US",
           "contents": [
@@ -1797,7 +1797,7 @@
                     "issue_severity": "MEDIUM",
                     "issue_confidence": "MEDIUM"
                   }
-                },
+                }
          ],
       "newlineSequences": [
         "\r\n",
